@@ -493,7 +493,6 @@ export type HeaderIcon =
   | 'book-open'
   | 'compose'
   | 'share'
-  | 'share-chat'
   | 'light-mode'
   | 'dark-mode'
   | 'close';
